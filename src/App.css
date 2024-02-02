@@ -1,0 +1,213 @@
+body{
+    overflow-x: hidden;
+}
+.btn button{
+    /* border-radius: 20% 20% 20% 20%; */
+    padding: 10px 10px;
+    width: 150px;
+    border-radius: 20px;
+}
+.slider img{
+    /* height: 600px; */
+    width: 100%;
+}
+.slidercon1{
+    margin-left: 10%;
+    padding: 20px;
+    transition: .3s;
+}
+.sliderbtn button:hover{
+    background-color: black;
+    color: #E5E6E1;
+}
+.sliderbtn button:hover .colbtn{
+    background-color: black;
+    color: red;
+}
+.btn{
+    border-radius: 30px;
+    padding: 13px ;
+    /* margin: 5px; */
+    width: 220px;
+    background-color: black;
+    color: #E5E6E1;
+}
+.sliderbtn:hover .btn {
+    background-color: red;
+    color: blue;
+}
+
+.slider_con{
+    margin-top: 60px;
+}
+.slidercon2{
+    margin-left: 10%;
+    padding: 20px;
+}
+.sliderbtn button{
+    border-radius: 30px;
+    padding: 13px ;
+    /* margin: 5px; */
+    width: 220px;
+    
+}
+.navbar-toggler-icon{
+    font-size: 15px;
+}
+.nav-img{
+    /* background-color: #E5E6E1; */
+    
+}
+.sliderbtn{
+    margin-left: 13%;
+    
+}   
+.button .btn{
+    color: #fff;
+    background-color: #222222;
+    border-color: #222222;
+    padding: 14px 30px;
+    width: 200px;
+    border-radius: 40px;
+    transition: .3s;
+    height: 50px;
+}
+.button:hover .btn{
+    background-color: #fff;
+    color: #222222;
+    
+}
+.button .colbtn a{
+    text-decoration: none;
+}
+.button2 a {
+    color: #222222;
+    background-color: #fff;
+    border-color: #222222;
+    padding: 14px 30px;
+    width: 200px;
+    border-radius: 40px;
+    margin-left: 60px;
+    transition: .3s;
+    text-decoration: none;
+}
+.button2:hover .colbtn{
+    color: #fff;
+    background-color: #222222;
+}
+@media(max-width:767px)
+{
+    .nav-text{
+        position: relative;
+    }
+    .nav-img{
+        position: absolute;
+        height: 200px !important;
+        width: 100%;
+    }
+}
+/* -=-=-=-===-==-=-=-=-=issue part serction-=-=-=-=-=-=-=-=- */
+
+.box-a p{
+    font-size: 25px;
+}
+.box2{
+    background-color: #E5E6E1;
+    border-radius: 30px;
+}
+.about-btn button{
+    border-radius: 30px;
+}
+.free-btn button{
+    border-radius: 30px;
+    /* margin-left: 180px; */
+}
+/* .about-btn button :hover {
+    background-color: forestgreen;
+    color: blue;
+} */
+.text-box p{
+    margin-right:30%;
+}
+.btn button:hover {
+    background-color: grey;
+}
+.icons img{
+    width: 150px;
+}
+.footerp p{
+    margin-bottom: 0;
+    font-size: 25px;
+}
+.list li{
+    list-style: none;
+    margin-left: 10px;
+}
+.footer2 li{
+    list-style: none;
+}
+.footerbtn button{
+    border-radius: 20px;
+    padding: 10px;
+}
+.input-group button{ 
+    /* border: 1px white none; */
+    border-radius: 20px;
+}
+.footer-last{
+    margin-top: 80px;
+}
+.lastp ul li{
+    list-style: none; 
+    margin-left: 10px;
+}
+.lastp{
+    margin-top: 80px;
+}
+.photo img{
+    max-width:50%;
+    border-radius: 50%;
+}
+.icon-1 p{
+    font-size: 15px;
+}
+icon-ti p{
+    font-size: 10px;
+}
+.sliderop{
+    margin-top: 50px;
+}
+.helper{
+    margin-top: 130px;
+}
+.item{
+    background-color: transparent !important;
+}
+.texts{
+    font-size: 10px;
+}
+.last-box{
+    background-color: #B0BBBA;
+}
+.box3{
+    border-radius: 20px;
+}
+.rounded-circle{
+    width: 100px;
+    height: 100px;
+}
+.helping{
+    margin-top: 100px;
+}
+.working{
+    margin-top: 100px;
+}   
+.lastseen{
+    margin-top: 90px;
+}
+.allicon{
+    margin-top: 70px;
+}
+.footer{
+    width: 100%;
+}

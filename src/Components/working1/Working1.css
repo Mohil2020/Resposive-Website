@@ -1,0 +1,22 @@
+img{
+    width: 100%;
+    height: 100%;
+    
+}
+@media (max-width: 768px)
+{
+    .img-mod-2 {
+        left: 0;
+        padding-top: 500px;
+}
+}
+/* .part2 {
+    background-color: #E5E6E1;
+}
+.img-mod-2{
+    background-color: #E5E6E1;
+} */
+.all{
+    background-color: #E5E6E1;
+    /* height: 700px; */
+}

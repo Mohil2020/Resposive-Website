@@ -1,0 +1,14 @@
+li {
+    list-style-type: none;
+}
+h2{
+    font-size: 40px;
+}
+span{
+    font-size: 45px;
+}
+.item{
+    background-color:#E5E6E1;
+    padding: 20px 20px;
+    border-radius: 20px;
+}
